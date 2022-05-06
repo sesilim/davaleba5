@@ -12,6 +12,7 @@ header {
 }
 .nav-link{
     margin-left: 15%;
+    color: black;
 }
 ul{
     display:flex;
@@ -20,5 +21,5 @@ ul{
 div{
     background-color: blueviolet
     width: 50px;
-    height: 100px;
+    height: 60px;
 }
